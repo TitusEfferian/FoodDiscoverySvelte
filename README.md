@@ -1,1 +1,1 @@
-![](fooddiscovery.jpeg)
+![](FoodDiscovery.jpg)
